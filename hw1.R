@@ -22,3 +22,5 @@ is.armstrong(x = -2)
 is.armstrong(x = 1011)
 is.armstrong(x = c(pi, 6))
 is.armstrong(x = "a")
+
+# Comment
